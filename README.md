@@ -45,7 +45,7 @@ Table of contents
 Project Setup
 ============
 
-We are assuming you have already downloaded the Go-Ethereum client `geth`. If you have not, [installation instructions are here.](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
+We are assuming you have already downloaded the Go-Ethereum client `geth`. If you have not, [installation instructions are here.](https://geth.ethereum.org/docs/install-and-build/installing-geth)
 
 _Note: This tutorial was created using `geth 1.10.15`_
 
