@@ -47,7 +47,7 @@ Project Setup
 
 We are assuming you have already downloaded the Go-Ethereum client `geth`. If you have not, [installation instructions are here.](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
 
-_Note: This tutorial was created using `geth 1.9.2`_
+_Note: This tutorial was created using `geth 1.10.15`_
 
 Please fork this repo and download it to your local machine. Use the terminal to `cd` into the directory `geth-poa-tutorial`.
 
